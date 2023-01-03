@@ -180,3 +180,8 @@ uint8_t retries = 3;
 </pre>
 
 <h3>Hasil</h3>
+https://github.com/naufalzakky/Nomor2/blob/main/WhatsApp%20Image%202023-01-03%20at%2018.55.30.jpeg
+
+https://github.com/naufalzakky/Nomor2/blob/main/WhatsApp%20Image%202023-01-03%20at%2018.56.04.jpeg
+
+https://github.com/naufalzakky/Nomor2/blob/main/WhatsApp%20Image%202023-01-03%20at%2021.14.48.jpeg
